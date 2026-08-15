@@ -1,0 +1,36 @@
+__pycache__/
+*.py[cod]
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+captured_images/
+# Node modules (VERY IMPORTANT)
+node_modules/
+Backend/node_modules/
+
+# Environment files (security)
+# .env
+# Backend/.env
+
+# Optional (good practice)
+.vscode/
+.DS_Store
+uploads/
+detections/
+
+panel_results.json/
+received_images/
