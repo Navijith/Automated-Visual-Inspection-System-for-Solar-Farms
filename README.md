@@ -2,10 +2,6 @@
 
 A comprehensive full-stack application for automated inspection and monitoring of solar panel systems using AI-powered fault detection, real-time monitoring, and intelligent diagnostics.
 
-![Solar Panel Inspection](https://img.shields.io/badge/Status-Active-brightgreen)
-![Version](https://img.shields.io/badge/Version-1.0.0-blue)
-![License](https://img.shields.io/badge/License-ISC-green)
-
 ---
 
 ## 📋 Table of Contents
@@ -561,18 +557,6 @@ CONFIDENCE_THRESHOLD=0.5
 | Axios        | -       | HTTP Client      |
 | jsonwebtoken | 9.0.2   | Authentication   |
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
 ### Development Guidelines
 
 - Follow ESLint configuration
@@ -580,29 +564,6 @@ Contributions are welcome! To contribute:
 - Write meaningful commit messages
 - Test changes before submitting PR
 - Update documentation as needed
-
----
-
-## 📄 License
-
-This project is licensed under the ISC License - see the LICENSE file for details.
-
----
-
-## 👨‍💻 Author
-
-**Full-Stack Developer**
-
-- Computer Vision & AI Integration
-- Full-stack MERN + Python development
-- Real-time monitoring systems
-- IoT and embedded systems
-
----
-
-## 📞 Support & Contact
-
-For questions, issues, or suggestions, please open an issue on GitHub or contact the development team.
 
 ---
 
